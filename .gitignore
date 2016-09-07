@@ -4,3 +4,6 @@ dist
 .ruby-version
 *.rbc
 *~
+
+# vim
+*.swp
